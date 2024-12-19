@@ -153,7 +153,7 @@ const ContactUs = () => {
       <div className="w-full md:w-1/2 mb-8 md:mb-0 px-4 mt-8 flex flex-col items-center md:items-start">
         <h3 className="text-[#2C7A57] font-semibold text-xl md:text-2xl mb-4">CONTACT FORM</h3>
         <h1 className="text-[#252B42] font-extrabold text-3xl sm:text-4xl md:text-5xl mb-8 leading-tight text-center md:text-left">
-          We'd love to hear from you!
+          We&apos;d love to hear from you!
         </h1>
         <form onSubmit={handleSubmit} className="space-y-6 w-full max-w-md">
           <input

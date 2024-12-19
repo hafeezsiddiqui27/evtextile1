@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Navbar from "./components/Navbar";
 import Hero from "./components/Home/hero";
 import KeyHighlights from "./components/Home/highlights";
